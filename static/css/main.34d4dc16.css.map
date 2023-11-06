@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.34d4dc16.css","mappings":"AAEA,KACE,6HAA8E,CAC9E,gBACF","sources":["index.css"],"sourcesContent":["\n\nbody {\n  background: url(../public/telephone-3594206_1280.jpg) center / cover no-repeat;\n  min-height: 100vh;\n}"],"names":[],"sourceRoot":""}
